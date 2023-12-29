@@ -1,0 +1,57 @@
+@import url();
+.App {
+  font-family: 'Kanit', sans-serif;
+  text-align: center;
+  justify-content: center;
+}
+body{
+  background: #012152;
+  color:limegreen;
+}
+.homeTitle{
+    text-shadow: 1px 1px 5px rgb(117, 105, 105);
+    margin-top: 3%;
+    font-size: 1rem;
+  }
+.subTitle{
+    font-size: 3rem;
+    color: white;
+    text-shadow: 2px 2px 3px #000000;
+}
+label{
+  font-weight: bold;
+}
+.main-div{
+  border-style: ridge;
+  margin-left: 12%;
+  margin-right: 12%;
+}
+.fa-solid:hover{
+  cursor: pointer;
+}
+.details{
+  width:100%;
+}
+
+.nav-item{
+  list-style-type: none;
+   padding-inline-start: 0;
+   text-decoration: none;
+  
+
+}
+.nav-link{
+font-size: 20px;
+color: white;
+text-decoration: none;
+}
+.navbar-brand{
+  color:lawngreen;
+  text-decoration: none;
+  font-size: larger;
+}
+.homeTitle {
+  color:lawngreen;
+  text-decoration: none;
+  font-size: 26px;
+}
